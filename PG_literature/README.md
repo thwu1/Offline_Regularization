@@ -2,7 +2,7 @@
 
   [1] Agarwal et al. (2021)
   
-   NPG ~ 1/epsilon^2.
+    NPG ~ 1/epsilon^2.
     
   [2] Cen et al. (2020)
   
