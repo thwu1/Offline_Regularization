@@ -1,4 +1,4 @@
-# Iteration complexity for Tabular + softmax parameterization with NPG with Exact gradient
+### Iteration complexity for Tabular + softmax parameterization with NPG with Exact gradient
 
   [1] Agarwal et al. (2021)
   
@@ -27,14 +27,10 @@
     
 # Sample complexity for Tabular + NPG with approximate gradient
   [1] Agarwal et al. (2021)
-  
-  NPG (rollout estimation) $\approx O(1/\epsilon^5)?$
-  
+    NPG (rollout estimation) $\approx O(1/\epsilon^5)?$
   [2] Cen et al. (2020)
-  
-  NPG + regularization term (rollout estimation) $\sim O(\frac{|S||A|}{(1-\gamma)^8}\epsilon^2)$.
+    NPG + regularization term (rollout estimation) $\sim O(\frac{|S||A|}{(1-\gamma)^8}\epsilon^2)$.
     
-# Linear or General function approximation
+# General function approximation
   [1] Agarwal et al. (2021)
-  
-  Needs to make some assumption such as $A^\pi(s,a)$ is almost linear in feature $\nabla \log(\pi(a|s))$.
+    Needs to make some assumption such as $A^\pi(s,a)$ is almost linear in feature $\nabla \log(\pi(a|s))$.
