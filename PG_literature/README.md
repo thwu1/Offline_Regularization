@@ -28,6 +28,7 @@
 ### Sample complexity for Tabular + NPG with approximate gradient
   [1] Agarwal et al. (2021)
     NPG (rollout estimation) ~ Sample complexity 1/epsilon^5
+    
   [2] Cen et al. (2020)
     NPG + regularization term (rollout estimation) ~ 1/epsilon^2 (The dependence on 1/(1-gamma) is far from tight).
     
