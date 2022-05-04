@@ -1,4 +1,4 @@
-### Iteration complexity for Tabular + softmax parameterization with NPG with Exact gradient
+### Iteration complexity for Tabular + NPG with Exact gradient
 
   [1] Agarwal et al. (2021)
   
