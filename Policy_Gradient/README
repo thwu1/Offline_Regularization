@@ -1,2 +1,0 @@
-[1] Agarwal
-  This paper proved that NPG + exact gradient will find an epsilon optimal policy within $O(1/(1-\gamma))$
