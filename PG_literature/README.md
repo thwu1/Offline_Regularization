@@ -1,8 +1,7 @@
 # Iteration complexity for Tabular + softmax parameterization with NPG with Exact gradient
 
   [1] Agarwal et al. (2021)
-  
-    NPG = iteration complexity $O(\frac{1}{(1-\gamma^2 \epsilon)})$.
+  NPG = iteration complexity $O(\frac{1}{(1-\gamma^2 \epsilon)})$.
     
   [2] Cen et al. (2020)
     NPG + regularization term add to the objective = iteration complexity $\frac{1}{1-\gamma}\log(\frac{1}{\epsilon})$.
